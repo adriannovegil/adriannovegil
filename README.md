@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him or They/Them
 - ⚡ Hobbies: My family, mechanics, electronics, the Maker world, sport, nature, traveling around the world ... too many hobbies ... hahahahaha
 
+<!--
 <table border="0" width=100%>
   <tbody>
     <tr valign="top">
@@ -35,3 +36,4 @@ Here are some ideas to get you started:
     </tr>
   </tbody>
 </table>
+-->
