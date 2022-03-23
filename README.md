@@ -26,6 +26,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him or They/Them
 - ⚡ Hobbies: My family, mechanics, electronics, the Maker world, sport, nature, traveling around the world ... too many hobbies ... hahahahaha
 
+Awesomic repositories:
+
+- [Awesome Observability](https://github.com/adriannovegil/awesome-observability)
+- [Awesome Chaos Engineering](https://github.com/adriannovegil/awesome-chaos-engineering)
+- [Awesome SRE](https://github.com/adriannovegil/awesome-sre)
+- [Awesome Profiling](https://github.com/adriannovegil/awesome-profiling)
+- [Awesome Software Engineer](https://github.com/adriannovegil/awesome-software-engineer)
+
 <!--
 <table border="0" width=100%>
   <tbody>
