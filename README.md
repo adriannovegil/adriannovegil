@@ -16,11 +16,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there 👋
 
-- 🔭 I’m currently working as Chief Executive DevOps Awesome Multi-task Developer Ninja Amazing Software Freak Architect, in a cross company team helping different teams to solve their problems. Dealing with projects, technologies, frameworks, teams, clients, etc.
-- 🌱 I’m currently learning about observability, chaos engineering and profiling. Dealing with reliability and performance and trying to understand how things work.
-- 👯 I’m looking to collaborate on international projects related with observability, performance, profiling, etc.
-- 🤔 I’m looking for help with my english. If you are looking for somebody who loves his profession and you have no problem helping him with the language, contact me 😉
+I'm Adrian Novegil from Spain (🇪🇸). Husband, father (of three 🙈🙉🙊) and full time nerd.
+
+I have more than 15 years of experience working in all kind of projects, sizes, sectors and teams.
+
+- 🔭 I’m currently working as Technical Lead at [Sbayt](https://sbayt.ai/).
+- 🌱 I’m currently learning about AI&Data, observability, chaos engineering and profiling.
+- 👯 I’m looking to collaborate on international projects related with AI and data in general.
+- 😜 I’m a natural leader, a social person, curious and self-taught. My profile is a hybrid of technical and lead experience, but always related to technical projects. I'm not a manager. Trust me, I know.
 - 💬 Ask me about what you want, I may have the answer 😜
 - 📫 How to reach me: Send an email to adrian.novegil@gmail.com, contact with me on [LinkedIn](https://www.linkedin.com/feed), shoot me a message on [Twitter](https://twitter.com/adriannovegil) or you can gossip a little about my life on [Instagram](https://www.instagram.com/adriannovegil/)
 - 😄 Pronouns: He/Him or They/Them
