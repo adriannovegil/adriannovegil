@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Adrian Novegil from Spain (🇪🇸)
+I'm Adrian Novegil from Spain (🇪🇸). Husband, father (of three 🙈🙉🙊) and full time nerd.
 
 <!--
 **adriannovegil/adriannovegil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there 👋
-
-I'm Adrian Novegil from Spain (🇪🇸). Husband, father (of three 🙈🙉🙊) and full time nerd.
 
 I have more than 15 years of experience working in all kind of projects, sizes, sectors and teams.
 
